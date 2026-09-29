@@ -1,6 +1,6 @@
 # Lab 5 — Text Representation
 
-**Name:** Hadi Muneer Abu Allairat
+**Name:** Hadi Muneer Abu Allairat  
 **Student ID:** 2230005761
 
 ## Tasks
